@@ -16,7 +16,7 @@ So I used iTunes API to build my own search interface.
 ## Libraries/Frameworks used
 
 - Vue.js
-- Materialized CSS
+- Materialize CSS
 
 ## User Manual
 
