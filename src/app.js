@@ -1,3 +1,6 @@
+function callb(data) {
+  console.log(data)
+}
 
 var app = new Vue({
     el: '#app',
@@ -20,7 +23,7 @@ var app = new Vue({
           return
         }
         this.loadingData = true
-        let url = new URL("https://itunes.apple.com/search")
+        let url = new URL("http://jakejin.me/search")
         url.searchParams.set("country", "us")
         url.searchParams.set("term", this.searchKey)
         url.searchParams.set("version", 2)

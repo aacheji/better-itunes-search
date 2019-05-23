@@ -90,7 +90,7 @@
                   <li><strong>Item Price:</strong> {{formatCurrency(item.trackPrice)}}</li>
                   <li><strong>Album Price:</strong> {{formatCurrency(item.collectionPrice)}}</li>
                   <li><strong>Track length:</strong> {{millisToMinutesAndSeconds(item.trackTimeMillis)}}</li>
-                  <li style="margin: 10px 0;"><a :href="item.trackViewUrl"><img src="src/img/US_UK_iTunes_Store_Get_Badge_RGB_012618.svg" alt="get on iTunes"></a></li>
+                  <li style="margin: 10px 0;"><a target="_blank" :href="item.trackViewUrl"><img src="src/img/US_UK_iTunes_Store_Get_Badge_RGB_012618.svg" alt="get on iTunes"></a></li>
                   <li>
                     <button class="btn waves-effect preview-content-btn" @click="playMedia(item)">Play Preview<i class="material-icons right">play_arrow</i></button>
                   </li>
