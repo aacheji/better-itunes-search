@@ -9,7 +9,7 @@ This is a website to provide better iTunes Search interface.
 
 I've used iTunes for some time, and I don't quite like their search interface.
 
-For some reason, iTunes Store loads really slow. And Mac version of iTunes is hard to use, I cannot search by genre, and you can do too many things with iTunes on Mac (e.g. manage your iOS device), that means distraction and, if you click on somewhere by accident, you will be taken to antoher entirely irrelevant page and therefore lose your focus on search results.
+For some reason, iTunes Store loads really slow. And Mac version of iTunes is hard to use, I cannot search by genre, and you can do too many things with iTunes on Mac (e.g. manage your iOS device), that means distraction and, if you click on somewhere by accident, you will be taken to another entirely irrelevant page and therefore lose your focus on search results.
 
 So I used iTunes API to build my own search interface.
 
