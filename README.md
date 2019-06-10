@@ -20,7 +20,7 @@ So I used iTunes API to build my own search interface.
 
 ## User Manual
 
-- You can input your own search key, choose your desired genre, and hit submit or enter on your keyboard, then it should show results.
+- You can input your own search key (could be anything: artist, album, song name), choose your desired genre, and hit submit or enter on your keyboard, then it should show results.
 - Results are shown in a whole bunch of cards, in the card there's media title, album picture, author, price on iTunes.
 - In each card, by clicking on album picture or the three-dot menu icon, you can see more details of this media.
 - In each card, by cliking on "play review" button you can listen to or see a preview cilp. Audio/Video control will be shown on the bottom-right corner. You can close it by cliking on close button on the floating audio/video control.
