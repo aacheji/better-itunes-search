@@ -86,6 +86,9 @@ var app = new Vue({
         if (amount == 0 || amount == 0.00) {
           return "Free"
         }
+        if (amount == -1) {
+          return "Album only"
+        }
         return `$${amount}`
       }
     },
