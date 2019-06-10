@@ -1,6 +1,3 @@
-function callb(data) {
-  console.log(data)
-}
 
 var app = new Vue({
     el: '#app',
