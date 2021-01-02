@@ -2,6 +2,8 @@
 
 This is a website to provide better iTunes Search interface.
 
+Demo: https://www.youtube.com/watch?v=B9GvnpFGyHg
+
 ## Preview
 [uwjake.github.io/better-itunes-search](https://uwjake.github.io/better-itunes-search)
 
